@@ -1,0 +1,12 @@
+C:\Users\Giray\Downloads\Turnuva-Simülasyonu\Turnuva Simülasyonu\bin\Debug\Turnuva Simülasyonu.exe.config
+C:\Users\Giray\Downloads\Turnuva-Simülasyonu\Turnuva Simülasyonu\bin\Debug\Turnuva Simülasyonu.exe
+C:\Users\Giray\Downloads\Turnuva-Simülasyonu\Turnuva Simülasyonu\bin\Debug\Turnuva Simülasyonu.pdb
+C:\Users\Giray\Downloads\Turnuva-Simülasyonu\Turnuva Simülasyonu\obj\Debug\Turnuva Simülasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Giray\Downloads\Turnuva-Simülasyonu\Turnuva Simülasyonu\obj\Debug\Turnuva Simülasyonu.exe
+C:\Users\Giray\Downloads\Turnuva-Simülasyonu\Turnuva Simülasyonu\obj\Debug\Turnuva Simülasyonu.pdb
+C:\Users\Giray\Desktop\Turnuva-Simülasyonu\Turnuva Simülasyonu\bin\Debug\Turnuva Simülasyonu.exe.config
+C:\Users\Giray\Desktop\Turnuva-Simülasyonu\Turnuva Simülasyonu\obj\Debug\Turnuva Simülasyonu.exe
+C:\Users\Giray\Desktop\Turnuva-Simülasyonu\Turnuva Simülasyonu\obj\Debug\Turnuva Simülasyonu.pdb
+C:\Users\Giray\Desktop\Bilgisayar Bilimleri\nesne tabanlı programlama\Turnuva-Simülasyonu\Turnuva Simülasyonu\bin\Debug\Turnuva Simülasyonu.exe.config
+C:\Users\Giray\Desktop\Bilgisayar Bilimleri\nesne tabanlı programlama\Turnuva-Simülasyonu\Turnuva Simülasyonu\obj\Debug\Turnuva Simülasyonu.exe
+C:\Users\Giray\Desktop\Bilgisayar Bilimleri\nesne tabanlı programlama\Turnuva-Simülasyonu\Turnuva Simülasyonu\obj\Debug\Turnuva Simülasyonu.pdb

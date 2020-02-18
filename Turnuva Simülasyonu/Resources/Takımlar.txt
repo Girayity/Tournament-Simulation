@@ -1,0 +1,64 @@
+﻿Real Madrid,96
+CSKA Moscow,96
+Olympiakos,93
+Fenerbahçe,91
+Panathinaikos,88
+Anadolu Efes,87
+Baskonia,87
+Barceloma,82
+Darüşşafaka,77
+Zalgiris Kaunas,74
+Galatasaray,74
+Crvena Zvezda,79
+Bamberg,77
+Maccabi Tel Aviv,81
+Unics Kazan,75
+Milano,76
+Unicaja Malaga,77
+Valencia,76
+Lokomotiv Kuban,70
+Hapoel Jarusalem,72
+Bayern Münih,75
+Khimki Moscow,73
+Gran Canaria,70
+Aris,69
+Lyon-Vileaurbanne,67
+PAOK,71
+Partizan,67
+Strasbourg,70
+Tenerife,76
+Frankfurt,65
+Pınar Karşıyaka,73
+Avellino,66
+Ventspils,63
+Venezia,68
+Banvit,75
+Oldenburg,71
+Neptunas,67
+Maccabi Rishon,61
+Monaco,74
+Ludwigsburg,68
+AEK Athens,70
+Le Mans,66
+Nymburk,66
+Sassari,67
+Lietuvos Rytas,69
+Cedevita,61
+Alba Berlin,70
+Union Olimpija,62
+Bilbao,72
+Oostende,63
+Spirou Charleroi,66
+Cibona Zagreb,60
+Uşak Sportif,62
+CSM Oradea,58
+Szolnoki Olaj,55
+Zielona Gora,61
+Ulm,76
+Nizhny Novgorod,70
+Fuenlabrada,67
+Cantu,62
+Saratov,59
+Kataja,58
+Helios Domzale,55
+Varese,63
